@@ -21,6 +21,7 @@ html {
     background: #C5965F;
     border-radius: 10px;
     gap: 2em;
+    max-width: 300px;
 }
   
 .mochila {
@@ -103,6 +104,7 @@ html {
 .lista {
     margin: 0;
     padding: 0;
+    max-width: 500px;
 }
 
 .item {
